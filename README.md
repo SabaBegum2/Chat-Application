@@ -41,7 +41,7 @@ This project implements a **multi-threaded chat server and client system** in Ja
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/yourusername/chat-application.git  
+   git clone https://github.com/SabaBegum2/chat-application.git  
    cd chat-application  
 2. **Run the Server**
    Start the server to handle incoming client connections. In your terminal, run:
